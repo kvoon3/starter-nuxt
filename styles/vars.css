@@ -1,0 +1,15 @@
+html {
+  --c-bg-base: #fff;
+  --c-bg-secondary: #f0f0f0;
+
+  --c-text-base: #000;
+  --c-text-secondary: #666;
+}
+
+html.dark {
+  --c-bg-base: #000;
+  --c-bg-secondary: #111;
+
+  --c-text-base: #fff;
+  --c-text-secondary: #ccc;
+}

@@ -1,0 +1,13 @@
+@import './vars.css';
+
+html,
+body,
+#__nuxt {
+  height: 100%;
+  color: var(--c-text-base);
+  background-color: var(--c-bg-base);
+}
+
+html.dark {
+  color-scheme: dark;
+}
